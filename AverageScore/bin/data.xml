@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+	<NewDataSet>
+		<Table diffgr:id="Table1" msdata:rowOrder="0">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>JS102011</KCDM>
+			<KCMC>大学计算机基础B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.30</JD>
+			<PSCJ>93</PSCJ>
+			<QMCJ>81</QMCJ>
+			<CJ>83</CJ>
+			<ZSCJ>83</ZSCJ>
+			<XYMC>计算机学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-JS102011-1201005-2</XKKH>
+		</Table>
+		<Table diffgr:id="Table2" msdata:rowOrder="1">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>TY100010</KCDM>
+			<KCMC>大学体育Ⅰ</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>1.0</XF>
+			<JD> 3.50</JD>
+			<QMCJ>85</QMCJ>
+			<CJ>85</CJ>
+			<ZSCJ>85</ZSCJ>
+			<XYMC>体育部</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-TY100010-1101002-5</XKKH>
+		</Table>
+		<Table diffgr:id="Table3" msdata:rowOrder="2">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>wy100010</KCDM>
+			<KCMC>大学英语I</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 2.80</JD>
+			<PSCJ>92</PSCJ>
+			<QMCJ>72</QMCJ>
+			<CJ>78</CJ>
+			<ZSCJ>78</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-wy100010-0902017-3</XKKH>
+		</Table>
+		<Table diffgr:id="Table4" msdata:rowOrder="3">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>LX120113</KCDM>
+			<KCMC>高等数学CI</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>6.0</XF>
+			<JD> 2.70</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>76</QMCJ>
+			<CJ>77</CJ>
+			<ZSCJ>77</ZSCJ>
+			<XYMC>理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-LX120113-1401043-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table5" msdata:rowOrder="4">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ121210</KCDM>
+			<KCMC>管理学</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.50</JD>
+			<PSCJ>86</PSCJ>
+			<QMCJ>84</QMCJ>
+			<CJ>85</CJ>
+			<ZSCJ>85</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-JJ121210-1304002-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table6" msdata:rowOrder="5">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ131322</KCDM>
+			<KCMC>会计学B(原理）</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 4.30</JD>
+			<PSCJ>99</PSCJ>
+			<QMCJ>91</QMCJ>
+			<CJ>93</CJ>
+			<ZSCJ>93</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-JJ131322-0102002-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table7" msdata:rowOrder="6">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ100150</KCDM>
+			<KCMC>经济管理专业导引</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>1.0</XF>
+			<JD> 4.00</JD>
+			<QMCJ>优秀</QMCJ>
+			<CJ>优秀</CJ>
+			<ZSCJ>90</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-JJ100150-0701003-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table8" msdata:rowOrder="7">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>wz100010</KCDM>
+			<KCMC>军事理论</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.80</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>87</QMCJ>
+			<CJ>88</CJ>
+			<ZSCJ>88</ZSCJ>
+			<XYMC>武装部</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-wz100010-0000000-10</XKKH>
+		</Table>
+		<Table diffgr:id="Table9" msdata:rowOrder="8">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>wz200010</KCDM>
+			<KCMC>军训</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 1.00</JD>
+			<CJ>及格</CJ>
+			<ZSCJ>60</ZSCJ>
+			<XYMC>武装部</XYMC>
+			<XKKH>(2011-2012-1)-wz200010-1901007</XKKH>
+		</Table>
+		<Table diffgr:id="Table10" msdata:rowOrder="9">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100020</KCDM>
+			<KCMC>思想道德修养与法律基础</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.40</JD>
+			<PSCJ>95</PSCJ>
+			<QMCJ>76</QMCJ>
+			<CJ>84</CJ>
+			<ZSCJ>84</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-RW100020-1601072-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table11" msdata:rowOrder="10">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100011</KCDM>
+			<KCMC>形势与政策1</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>0.3</XF>
+			<JD> 2.80</JD>
+			<QMCJ>78</QMCJ>
+			<CJ>78</CJ>
+			<ZSCJ>78</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-RW100011-1002005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table12" msdata:rowOrder="11">
+			<XN>2011-2012</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111041</KCDM>
+			<KCMC>政治经济学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.40</JD>
+			<QMCJ>74</QMCJ>
+			<CJ>74</CJ>
+			<ZSCJ>74</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-1)-JJ111041-0701007-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table13" msdata:rowOrder="12">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>TY100011</KCDM>
+			<KCMC>大学体育Ⅱ</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>1.0</XF>
+			<JD> 3.60</JD>
+			<CJ>86</CJ>
+			<ZSCJ>86</ZSCJ>
+			<XYMC>体育部</XYMC>
+			<XKKH>(2011-2012-2)-TY100011-1101001-84</XKKH>
+		</Table>
+		<Table diffgr:id="Table14" msdata:rowOrder="13">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>wy100020</KCDM>
+			<KCMC>大学英语II</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 2.20</JD>
+			<PSCJ>93</PSCJ>
+			<QMCJ>63</QMCJ>
+			<CJ>72</CJ>
+			<ZSCJ>72</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-wy100020-0902017-53</XKKH>
+		</Table>
+		<Table diffgr:id="Table15" msdata:rowOrder="14">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>LX120123</KCDM>
+			<KCMC>高等数学CII</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>5.0</XF>
+			<JD> 4.50</JD>
+			<PSCJ>98</PSCJ>
+			<QMCJ>94</QMCJ>
+			<CJ>95</CJ>
+			<ZSCJ>95</ZSCJ>
+			<XYMC>理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-LX120123-0801005-5</XKKH>
+		</Table>
+		<Table diffgr:id="Table16" msdata:rowOrder="15">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>JS102140</KCDM>
+			<KCMC>高级语言程序设计(VB)</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 3.80</JD>
+			<PSCJ>88</PSCJ>
+			<QZCJ>90</QZCJ>
+			<QMCJ>87</QMCJ>
+			<CJ>88</CJ>
+			<ZSCJ>88</ZSCJ>
+			<XYMC>计算机学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-JS102140-0402015-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table17" msdata:rowOrder="16">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ200023</KCDM>
+			<KCMC>经济管理专业软件实训C</KCMC>
+			<KCXZ>课外实践教学</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.00</JD>
+			<PSCJ>良好</PSCJ>
+			<QMCJ>良好</QMCJ>
+			<CJ>良好</CJ>
+			<ZSCJ>80</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-JJ200023-0201008-4</XKKH>
+		</Table>
+		<Table diffgr:id="Table18" msdata:rowOrder="17">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111021</KCDM>
+			<KCMC>微观经济学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 3.10</JD>
+			<PSCJ>97</PSCJ>
+			<QMCJ>74</QMCJ>
+			<CJ>81</CJ>
+			<ZSCJ>81</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-JJ111021-0701003-3</XKKH>
+		</Table>
+		<Table diffgr:id="Table19" msdata:rowOrder="18">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>LX120202</KCDM>
+			<KCMC>线性代数B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.90</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>88</QMCJ>
+			<CJ>89</CJ>
+			<ZSCJ>89</ZSCJ>
+			<XYMC>理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-LX120202-0801020-7</XKKH>
+		</Table>
+		<Table diffgr:id="Table20" msdata:rowOrder="19">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>RW100012</KCDM>
+			<KCMC>形势与政策2</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>0.3</XF>
+			<JD> 4.00</JD>
+			<QMCJ>90</QMCJ>
+			<CJ>90</CJ>
+			<ZSCJ>90</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-RW100012-1002005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table21" msdata:rowOrder="20">
+			<XN>2011-2012</XN>
+			<XQ>2</XQ>
+			<KCDM>RW400010</KCDM>
+			<KCMC>中国传统文化概论</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 2.50</JD>
+			<QMCJ>75</QMCJ>
+			<CJ>75</CJ>
+			<ZSCJ>75</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2011-2012-2)-RW400010-1006006-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table22" msdata:rowOrder="21">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>TY100012</KCDM>
+			<KCMC>大学体育Ⅲ</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>1.0</XF>
+			<JD> 2.90</JD>
+			<CJ>79</CJ>
+			<ZSCJ>79</ZSCJ>
+			<XYMC>体育部</XYMC>
+			<XKKH>(2012-2013-1)-TY100012-1401088-6</XKKH>
+		</Table>
+		<Table diffgr:id="Table23" msdata:rowOrder="22">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>wy100030</KCDM>
+			<KCMC>大学英语III</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 3.60</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>84</QMCJ>
+			<CJ>86</CJ>
+			<ZSCJ>86</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-wy100030-1401625-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table24" msdata:rowOrder="23">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>LX113502</KCDM>
+			<KCMC>概率论与数理统计B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.20</JD>
+			<PSCJ>88</PSCJ>
+			<QMCJ>79</QMCJ>
+			<CJ>82</CJ>
+			<ZSCJ>82</ZSCJ>
+			<XYMC>理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-LX113502-0801014-2</XKKH>
+		</Table>
+		<Table diffgr:id="Table25" msdata:rowOrder="24">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111031</KCDM>
+			<KCMC>宏观经济学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 4.00</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>90</QMCJ>
+			<CJ>90</CJ>
+			<ZSCJ>90</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-JJ111031-0701003-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table26" msdata:rowOrder="25">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>09042104</KCDM>
+			<KCMC>基础英语(Ⅳ)</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 4.30</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>94</QMCJ>
+			<CJ>93</CJ>
+			<ZSCJ>93</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-09042104-1401618-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table27" msdata:rowOrder="26">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>JS102092</KCDM>
+			<KCMC>计算机网络技术及应用B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.30</JD>
+			<PSCJ>93</PSCJ>
+			<QZCJ>79</QZCJ>
+			<QMCJ>78</QMCJ>
+			<CJ>83</CJ>
+			<ZSCJ>83</ZSCJ>
+			<XYMC>计算机学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-JS102092-0402037-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table28" msdata:rowOrder="27">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100150</KCDM>
+			<KCMC>经济法</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.00</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>76</QMCJ>
+			<CJ>80</CJ>
+			<ZSCJ>80</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-RW100150-0204006-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table29" msdata:rowOrder="28">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>01016201</KCDM>
+			<KCMC>认识实习</KCMC>
+			<KCXZ>课外实践教学</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.00</JD>
+			<QMCJ>良好</QMCJ>
+			<CJ>良好</CJ>
+			<ZSCJ>80</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-01016201-0701009-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table30" msdata:rowOrder="29">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>JS102152</KCDM>
+			<KCMC>数据库技术B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.80</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>87</QMCJ>
+			<CJ>88</CJ>
+			<ZSCJ>88</ZSCJ>
+			<XYMC>计算机学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-JS102152-0402018-2</XKKH>
+		</Table>
+		<Table diffgr:id="Table31" msdata:rowOrder="30">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>09042144</KCDM>
+			<KCMC>英语听力（辅修）</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.50</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>97</QMCJ>
+			<CJ>95</CJ>
+			<ZSCJ>95</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-09042144-1401618-2</XKKH>
+		</Table>
+		<Table diffgr:id="Table32" msdata:rowOrder="31">
+			<XN>2012-2013</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100030</KCDM>
+			<KCMC>中国近现代史纲要</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 2.10</JD>
+			<PSCJ>75</PSCJ>
+			<QMCJ>69</QMCJ>
+			<CJ>71</CJ>
+			<ZSCJ>71</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-1)-RW100030-1002006-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table33" msdata:rowOrder="32">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>TY100013</KCDM>
+			<KCMC>大学体育Ⅳ</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>1.0</XF>
+			<JD> 3.50</JD>
+			<CJ>85</CJ>
+			<ZSCJ>85</ZSCJ>
+			<XYMC>体育部</XYMC>
+			<XKKH>(2012-2013-2)-TY100013-1101006-5</XKKH>
+		</Table>
+		<Table diffgr:id="Table34" msdata:rowOrder="33">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>wy100040</KCDM>
+			<KCMC>大学英语IV</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 2.70</JD>
+			<PSCJ>85</PSCJ>
+			<QMCJ>74</QMCJ>
+			<CJ>77</CJ>
+			<ZSCJ>77</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-wy100040-0902010-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table35" msdata:rowOrder="34">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>GL320010</KCDM>
+			<KCMC>电子商务概论</KCMC>
+			<KCXZ>跨学科</KCXZ>
+			<KCGS>管理类</KCGS>
+			<XF>3.0</XF>
+			<JD> 3.00</JD>
+			<PSCJ>72</PSCJ>
+			<QMCJ>83</QMCJ>
+			<CJ>80</CJ>
+			<ZSCJ>80</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-GL320010-0704005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table36" msdata:rowOrder="35">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>09043314</KCDM>
+			<KCMC>高级英语</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.70</JD>
+			<PSCJ>75</PSCJ>
+			<QMCJ>92</QMCJ>
+			<CJ>87</CJ>
+			<ZSCJ>87</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-09043314-1401618-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table37" msdata:rowOrder="36">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111051</KCDM>
+			<KCMC>公共财政学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.20</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>83</QMCJ>
+			<CJ>82</CJ>
+			<ZSCJ>82</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ111051-0701005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table38" msdata:rowOrder="37">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>GL111011</KCDM>
+			<KCMC>管理信息系统A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.00</JD>
+			<PSCJ>100</PSCJ>
+			<QMCJ>57</QMCJ>
+			<CJ>70</CJ>
+			<ZSCJ>70</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-GL111011-1303001-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table39" msdata:rowOrder="38">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111280</KCDM>
+			<KCMC>国际经济学</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.00</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>61</QMCJ>
+			<CJ>70</CJ>
+			<ZSCJ>70</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ111280-0702008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table40" msdata:rowOrder="39">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ100141</KCDM>
+			<KCMC>国际贸易A</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.50</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>73</QMCJ>
+			<CJ>75</CJ>
+			<ZSCJ>75</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ100141-0702005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table41" msdata:rowOrder="40">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ211020</KCDM>
+			<KCMC>教学实习</KCMC>
+			<KCXZ>课外实践教学</KCXZ>
+			<XF>2.0</XF>
+			<JD> 2.00</JD>
+			<QMCJ>71</QMCJ>
+			<CJ>中等</CJ>
+			<ZSCJ>70</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ211020-0701008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table42" msdata:rowOrder="41">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ151211</KCDM>
+			<KCMC>金融学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.50</JD>
+			<PSCJ>85</PSCJ>
+			<QMCJ>70</QMCJ>
+			<CJ>75</CJ>
+			<ZSCJ>75</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ151211-0705004-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table43" msdata:rowOrder="42">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ141012</KCDM>
+			<KCMC>市场营销学B</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.50</JD>
+			<PSCJ>95</PSCJ>
+			<QMCJ>80</QMCJ>
+			<CJ>85</CJ>
+			<ZSCJ>85</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ141012-0703009-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table44" msdata:rowOrder="43">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111060</KCDM>
+			<KCMC>通信经济学</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.50</JD>
+			<PSCJ>95</PSCJ>
+			<QMCJ>95</QMCJ>
+			<CJ>95</CJ>
+			<ZSCJ>95</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ111060-0201008-3</XKKH>
+		</Table>
+		<Table diffgr:id="Table45" msdata:rowOrder="44">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ133011</KCDM>
+			<KCMC>统计学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.80</JD>
+			<PSCJ>100</PSCJ>
+			<QMCJ>83</QMCJ>
+			<CJ>88</CJ>
+			<ZSCJ>88</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ133011-1304001-3</XKKH>
+		</Table>
+		<Table diffgr:id="Table46" msdata:rowOrder="45">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>RW100014</KCDM>
+			<KCMC>形势与政策4</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>0.3</XF>
+			<JD> 4.30</JD>
+			<CJ>93</CJ>
+			<ZSCJ>93</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<XKKH>(2012-2013-2)-RW100014-1601098-</XKKH>
+		</Table>
+		<Table diffgr:id="Table47" msdata:rowOrder="46">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>09043312</KCDM>
+			<KCMC>英美国家概况</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.70</JD>
+			<PSCJ>75</PSCJ>
+			<QMCJ>92</QMCJ>
+			<CJ>87</CJ>
+			<ZSCJ>87</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>1</CXBJ>
+			<XKKH>(2012-2013-2)-09043312-1401618-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table48" msdata:rowOrder="47">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>09042106</KCDM>
+			<KCMC>英语泛读(Ⅰ)B</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.30</JD>
+			<PSCJ>75</PSCJ>
+			<QMCJ>100</QMCJ>
+			<CJ>93</CJ>
+			<ZSCJ>93</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>1</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-09042106-1401618-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table49" msdata:rowOrder="48">
+			<XN>2012-2013</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111090</KCDM>
+			<KCMC>资本论选读</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.70</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>85</QMCJ>
+			<CJ>87</CJ>
+			<ZSCJ>87</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2012-2013-2)-JJ111090-0701014-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table50" msdata:rowOrder="49">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111141</KCDM>
+			<KCMC>产业经济学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.10</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>81</QMCJ>
+			<CJ>81</CJ>
+			<ZSCJ>81</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111141-0701014-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table51" msdata:rowOrder="50">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>09041101</KCDM>
+			<KCMC>二外（法语Ⅰ）</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>4.0</XF>
+			<JD> 2.10</JD>
+			<PSCJ>70</PSCJ>
+			<QMCJ>72</QMCJ>
+			<CJ>71</CJ>
+			<ZSCJ>71</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>1</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-09041101-0203005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table52" msdata:rowOrder="51">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111171</KCDM>
+			<KCMC>发展经济学A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.20</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>83</QMCJ>
+			<CJ>82</CJ>
+			<ZSCJ>82</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111171-0701005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table53" msdata:rowOrder="52">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ151222</KCDM>
+			<KCMC>国际金融 B</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.20</JD>
+			<PSCJ>92</PSCJ>
+			<QMCJ>77</QMCJ>
+			<CJ>82</CJ>
+			<ZSCJ>82</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ151222-0702004-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table54" msdata:rowOrder="53">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111070</KCDM>
+			<KCMC>计量经济学</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.20</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>79</QMCJ>
+			<CJ>82</CJ>
+			<ZSCJ>82</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111070-0701008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table55" msdata:rowOrder="54">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111111</KCDM>
+			<KCMC>经济学说史A</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.80</JD>
+			<PSCJ>78</PSCJ>
+			<QMCJ>78</QMCJ>
+			<CJ>78</CJ>
+			<ZSCJ>78</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111111-0201008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table56" msdata:rowOrder="55">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ200030</KCDM>
+			<KCMC>科研训练</KCMC>
+			<KCXZ>课外实践教学</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.00</JD>
+			<QMCJ>优秀</QMCJ>
+			<SYCJ>优秀</SYCJ>
+			<CJ>优秀</CJ>
+			<ZSCJ>90</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ200030-0701003-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table57" msdata:rowOrder="56">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100040</KCDM>
+			<KCMC>马克思主义基本原理</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.60</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>73</QMCJ>
+			<CJ>76</CJ>
+			<ZSCJ>76</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-RW100040-1004004-2</XKKH>
+		</Table>
+		<Table diffgr:id="Table58" msdata:rowOrder="57">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111120</KCDM>
+			<KCMC>民生经济学</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.60</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>88</QMCJ>
+			<CJ>86</CJ>
+			<ZSCJ>86</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111120-0701003-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table59" msdata:rowOrder="58">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ112112</KCDM>
+			<KCMC>商务英语B</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.70</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>90</QMCJ>
+			<CJ>87</CJ>
+			<ZSCJ>87</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ112112-0701013-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table60" msdata:rowOrder="59">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>JJ111190</KCDM>
+			<KCMC>网络经济学</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 1.10</JD>
+			<PSCJ>99</PSCJ>
+			<QMCJ>45</QMCJ>
+			<CJ>61</CJ>
+			<ZSCJ>61</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-JJ111190-0701009-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table61" msdata:rowOrder="60">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>RW100015</KCDM>
+			<KCMC>形势与政策5</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>0.3</XF>
+			<JD> 4.60</JD>
+			<CJ>96</CJ>
+			<ZSCJ>96</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<XKKH>(2013-2014-1)-RW100015-1302001-</XKKH>
+		</Table>
+		<Table diffgr:id="Table62" msdata:rowOrder="61">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>09043310</KCDM>
+			<KCMC>英语口语</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.10</JD>
+			<PSCJ>65</PSCJ>
+			<QMCJ>88</QMCJ>
+			<CJ>81</CJ>
+			<ZSCJ>81</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-09043310-1401678-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table63" msdata:rowOrder="62">
+			<XN>2013-2014</XN>
+			<XQ>1</XQ>
+			<KCDM>GL140011</KCDM>
+			<KCMC>运筹学B</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 2.90</JD>
+			<PSCJ>92</PSCJ>
+			<QMCJ>73</QMCJ>
+			<CJ>79</CJ>
+			<ZSCJ>79</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-1)-GL140011-0107002-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table64" msdata:rowOrder="63">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111130</KCDM>
+			<KCMC>博弈论与信息经济学</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.40</JD>
+			<PSCJ>65</PSCJ>
+			<QMCJ>92</QMCJ>
+			<CJ>84</CJ>
+			<ZSCJ>84</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111130-0701004-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table65" msdata:rowOrder="64">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ211030</KCDM>
+			<KCMC>创业策划</KCMC>
+			<KCXZ>课外实践教学</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.00</JD>
+			<PSCJ>优秀</PSCJ>
+			<QMCJ>优秀</QMCJ>
+			<CJ>优秀</CJ>
+			<ZSCJ>90</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ211030-0701003-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table66" msdata:rowOrder="65">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>17005001</KCDM>
+			<KCMC>大学生就业指导</KCMC>
+			<KCXZ>素质拓展</KCXZ>
+			<KCGS>管理类</KCGS>
+			<XF>2.0</XF>
+			<JD> 4.80</JD>
+			<PSCJ>98</PSCJ>
+			<QMCJ>98</QMCJ>
+			<CJ>98</CJ>
+			<ZSCJ>98</ZSCJ>
+			<XYMC>招生就业办公室</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-17005001-1302007-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table67" msdata:rowOrder="66">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111220</KCDM>
+			<KCMC>当代西方经济学流派</KCMC>
+			<KCXZ>任选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.60</JD>
+			<PSCJ>96</PSCJ>
+			<QMCJ>96</QMCJ>
+			<CJ>96</CJ>
+			<ZSCJ>96</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111220-0201008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table68" msdata:rowOrder="67">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>09042149</KCDM>
+			<KCMC>二外（日辅修II）</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 1.80</JD>
+			<PSCJ>65</PSCJ>
+			<QMCJ>69</QMCJ>
+			<CJ>68</CJ>
+			<ZSCJ>68</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>1</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-09042149-0203005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table69" msdata:rowOrder="68">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>09043314</KCDM>
+			<KCMC>高级英语</KCMC>
+			<KCXZ>辅修课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 2.80</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>77</QMCJ>
+			<CJ>78</CJ>
+			<ZSCJ>78</ZSCJ>
+			<XYMC>外国语学院</XYMC>
+			<FXBJ>1</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-09043314-1401687-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table70" msdata:rowOrder="69">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111250</KCDM>
+			<KCMC>经济学方法论</KCMC>
+			<KCXZ>任选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.00</JD>
+			<PSCJ>80</PSCJ>
+			<QMCJ>80</QMCJ>
+			<CJ>80</CJ>
+			<ZSCJ>80</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111250-0701014-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table71" msdata:rowOrder="70">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111200</KCDM>
+			<KCMC>经济学前沿专题</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.90</JD>
+			<PSCJ>89</PSCJ>
+			<QMCJ>89</QMCJ>
+			<CJ>89</CJ>
+			<ZSCJ>89</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111200-0201008-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table72" msdata:rowOrder="71">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111080</KCDM>
+			<KCMC>经济应用文写作</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.50</JD>
+			<QMCJ>85</QMCJ>
+			<CJ>85</CJ>
+			<ZSCJ>85</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111080-0701005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table73" msdata:rowOrder="72">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>RW100050</KCDM>
+			<KCMC>毛泽东思想和中国特色社会主义理论体系概论</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>6.0</XF>
+			<JD> 2.50</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>68</QMCJ>
+			<CJ>75</CJ>
+			<ZSCJ>75</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-RW100050-1601098-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table74" msdata:rowOrder="73">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111180</KCDM>
+			<KCMC>区域经济学</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.30</JD>
+			<PSCJ>85</PSCJ>
+			<QMCJ>82</QMCJ>
+			<CJ>83</CJ>
+			<ZSCJ>83</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111180-0701014-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table75" msdata:rowOrder="74">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ151132</KCDM>
+			<KCMC>商业银行经营管理B</KCMC>
+			<KCXZ>任选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 4.20</JD>
+			<PSCJ>95</PSCJ>
+			<QMCJ>90</QMCJ>
+			<CJ>92</CJ>
+			<ZSCJ>92</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ151132-0705005-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table76" msdata:rowOrder="75">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>RW100016</KCDM>
+			<KCMC>形势与政策6</KCMC>
+			<KCXZ>必修课</KCXZ>
+			<XF>0.3</XF>
+			<JD> 3.40</JD>
+			<QMCJ>84</QMCJ>
+			<CJ>84</CJ>
+			<ZSCJ>84</ZSCJ>
+			<XYMC>人文社科学院</XYMC>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-RW100016-1002005-9</XKKH>
+		</Table>
+		<Table diffgr:id="Table77" msdata:rowOrder="76">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ151230</KCDM>
+			<KCMC>证券投资学A</KCMC>
+			<KCXZ>任选课</KCXZ>
+			<XF>3.0</XF>
+			<JD> 3.30</JD>
+			<QMCJ>88</QMCJ>
+			<SYCJ>70</SYCJ>
+			<CJ>83</CJ>
+			<ZSCJ>83</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ151230-0705004-1</XKKH>
+		</Table>
+		<Table diffgr:id="Table78" msdata:rowOrder="77">
+			<XN>2013-2014</XN>
+			<XQ>2</XQ>
+			<KCDM>JJ111100</KCDM>
+			<KCMC>制度经济学</KCMC>
+			<KCXZ>限选课</KCXZ>
+			<XF>2.0</XF>
+			<JD> 3.90</JD>
+			<PSCJ>90</PSCJ>
+			<QMCJ>89</QMCJ>
+			<CJ>89</CJ>
+			<ZSCJ>89</ZSCJ>
+			<XYMC>经济与管理学院</XYMC>
+			<FXBJ>0</FXBJ>
+			<CXBJ>0</CXBJ>
+			<XKKH>(2013-2014-2)-JJ111100-0702009-1</XKKH>
+		</Table>
+	</NewDataSet>
+</diffgr:diffgram>
